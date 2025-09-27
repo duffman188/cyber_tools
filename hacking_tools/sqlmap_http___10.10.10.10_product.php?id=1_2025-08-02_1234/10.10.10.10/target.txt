@@ -1,0 +1,1 @@
+http://10.10.10.10/product.php?id=1 (GET)  # /usr/bin/sqlmap -u http://10.10.10.10/product.php?id=1 --batch --output-dir=sqlmap_http___10.10.10.10_product.php?id=1_2025-08-02_1234

@@ -1,0 +1,9 @@
+
+=== Green Team Check — Target: http://localhost:8080 ===
+
+[*] Checking if target is reachable...
+[+] Target is online.
+
+[*] Checking login page...
+[+] HTTP status code for /login: 200
+[+] HTTP status code for /dashboard: 200

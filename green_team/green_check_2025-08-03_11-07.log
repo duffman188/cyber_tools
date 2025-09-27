@@ -1,0 +1,9 @@
+
+=== Green Team Check — Target: https://httpbin.org ===
+
+[*] Checking if target is reachable...
+[+] Target is online.
+
+[*] Checking login page...
+[+] HTTP status code for /login: 404
+[+] HTTP status code for /dashboard: 404

